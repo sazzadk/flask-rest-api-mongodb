@@ -1,4 +1,4 @@
-# A stencil Flask based REST API template for Mongodb#
+# A stencil Flask based REST API template for Mongodb #
 ## Description ##
 A simple implementation of CRUD for Mongodb using Flask and json API.
 ### Supported functions ###
