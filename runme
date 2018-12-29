@@ -1,0 +1,4 @@
+FLASK_APP=app.py
+FLASK_ENV=development
+export FLASK_APP FLASK_ENV
+flask run
