@@ -1,6 +1,8 @@
 # A stencil Flask based REST API template for Mongodb #
 ## Description ##
 A simple implementation of CRUD for Mongodb using Flask and json API.
+Requires authentication to access the API methods.
+
 ### Supported functions ###
 * CREATE - Register user
 * STORE - Store a record in the DB
